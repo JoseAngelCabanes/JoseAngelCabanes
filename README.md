@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoseAngelCabanes
 - 👀 I’m interested in learning new programming languages and making new projects.
-- 🌱 I’m currently learning Java, database administration and cybersecurity.
+- 🌱 I’m currently learning Fullstack Web Development.
 - 📫 You can contact me via email: joseangelcabanes29@gmail.com
 
 <!---
