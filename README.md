@@ -24,7 +24,7 @@
 - :student: I’m currently learning `Fullstack Web Developing` at `GeeksHubs Academy`.
 - :nerd_face: Always `learning new things`.
 <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](). -->
-- :boom: You can visit my LinkedIn [MY WEBSITE](https://www.linkedin.com/in/angel-cabanes/?locale=en_US).
+- :boom: You can visit my [LinkedIn](https://www.linkedin.com/in/angel-cabanes/?locale=en_US).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
