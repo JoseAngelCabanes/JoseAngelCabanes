@@ -21,7 +21,7 @@
 - :trophy: I have an advanced specific vocational training licenciature in Cross-platform application development.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer that has participated in the `2023 Alicante´s Programming Jam` and `2022 Incibe's ethical hacking and cybersecurity academy`.
-- :student: I’m currently learning `Fullstack Web Developing` at `GeeksHubs Academy`.
+- :student: I’m currently learning `Fullstack Web Developing`.
 - :nerd_face: Always `learning new things`.
 <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](). -->
 - :boom: You can visit my [LinkedIn](https://www.linkedin.com/in/angel-cabanes/?locale=en_US).
