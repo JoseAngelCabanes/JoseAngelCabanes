@@ -127,17 +127,20 @@
 	
 <div>
   <p align="center">
+	<a href="https://github.com/JoseAngelCabanes/sithSlayer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseAngelCabanes&repo=sithSlayer&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
 	<a href="https://github.com/JoseAngelCabanes/tattooStudioProject">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseAngelCabanes&repo=tattooStudioProject&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/JoseAngelCabanes/fsd0923VALMasterMind">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseAngelCabanes&repo=fsd0923VALMasterMind&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/JoseAngelCabanes/masterMind">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseAngelCabanes&repo=masterMind&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/JoseAngelCabanes/fsdVAL0923Proyecto2JsDomBom">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseAngelCabanes&repo=fsdVAL0923Proyecto2JsDomBom&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/JoseAngelCabanes/pspReplica">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseAngelCabanes&repo=pspReplica&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-      <a href="https://github.com/JoseAngelCabanes/fsdVAL0923Proyecto1">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseAngelCabanes&repo=fsdVAL0923Proyecto1&theme=tokyonight" alt="GitHub Stats" />
+      <a href="https://github.com/JoseAngelCabanes/burgerRestaurantPage">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseAngelCabanes&repo=burgerRestaurantPage&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
