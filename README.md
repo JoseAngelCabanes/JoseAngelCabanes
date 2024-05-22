@@ -17,7 +17,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Symbic](https://dual-link.com/es/).
+- :school: I am a `Software Developer` at [Symbic](https://dual-link.com/es/).
 - :trophy: I have an advanced specific vocational training licenciature in Cross-platform application development.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer that has participated in the `2023 Alicante´s Programming Jam` and `2022 Incibe's ethical hacking and cybersecurity academy`.
